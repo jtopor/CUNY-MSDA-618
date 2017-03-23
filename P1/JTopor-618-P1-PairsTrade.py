@@ -63,7 +63,7 @@ which would appear to be in line with the market-neutral nature of pairs trading
 
 So in this instance if we own stock in Duke Energy, it appears we can hedge 
 our position in that stock by pairs trading against the XLU energy sector ETF
-usiing this algorithm.
+using this algorithm.
 
 """
 import math
